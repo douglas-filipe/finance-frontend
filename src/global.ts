@@ -49,9 +49,5 @@ export const GlobalStyle = createGlobalStyle`
     border-spacing: 0;
   }
 
-  html, body{
-    background: #F5F5F5;
-    width: 100vw;
-  }
   
 `;

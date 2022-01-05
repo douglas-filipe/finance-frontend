@@ -1,11 +1,11 @@
 import { GlobalStyle } from "./global";
-import { Home } from "./pages/home";
+import { Login } from "./pages/login";
 
 const App = () => {
   return (
     <>
       <GlobalStyle />
-      <Home />
+      <Login />
     </>
   );
 };

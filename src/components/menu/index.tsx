@@ -13,7 +13,7 @@ export const Menu = () => {
 
       <AiFillPlusCircle className="Add" />
 
-      <CustomLink to="/">
+      <CustomLink to="/user">
         <FaUserCircle />
       </CustomLink>
     </Container>
